@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, soy Angel Velázquez</h1>
 <h3 align="center">Desarrollador fullstack especializado en soluciones web y móviles 🚀</h3>
 
-- 🔭 Actualmente estoy trabajando en **[Password Cloud](https://github.com/angelMonzter/password-cloud-backend)**
+- 🔭 Actualmente estoy trabajando en **[Password Cloud](https://passwordcloud.netlify.app/)**
 
 - 🌱 Estoy aprendiendo **DevOps, React Native y estrategias SaaS**
 
 - 💬 Pregúntame sobre **React, Laravel, Node.js, Tailwind, MySQL**
 
-- 📫 Cómo contactarme: **tu correo o tu web personal**
+- 📫 Cómo contactarme: **angelmonztr2000@hotmail.com**
 
-- ⚡ Fun fact: _"Siempre busco la forma más simple de resolver un problema complejo."_
+- ⚡ Fun fact: _"Comer y resolver problemas son mis situaciones favoritas."_
 
 ---
 
